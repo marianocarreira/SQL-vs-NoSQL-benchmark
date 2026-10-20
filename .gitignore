@@ -1,0 +1,5 @@
+benchmark.local.properties
+*.local.properties
+*.jtl
+jmeter.log
+results/run-*-report/
