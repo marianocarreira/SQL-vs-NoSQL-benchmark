@@ -1,5 +1,9 @@
 # SQL vs. NoSQL: Put Database Performance to the Test
 
+**First, I conducted a comprehensive analysis of database types.**
+
+You can find the output document here [Db types analysis](docs/database-guide.pdf)
+
 **One dataset. Two database engines. A closer look at the trade-offs.**
 
 Explore how **Microsoft SQL Server** and **MongoDB** handle reads, aggregations, joins, and bulk writes with Apache JMeter. Built around Stack Overflow data, this project turns a familiar architecture debate into a hands-on performance investigation.
